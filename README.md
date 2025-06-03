@@ -1,4 +1,4 @@
-## Hi there 👋
+this program literally just has a for loop 
 
 <!--
 **basspunkfm/basspunkfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
